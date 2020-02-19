@@ -1,4 +1,4 @@
 # colores-crud
 practica crud colores bootstrap, php, mysql
 
-![prueba](resultadofinal.png)
+![prueba](resultado_final.png)
